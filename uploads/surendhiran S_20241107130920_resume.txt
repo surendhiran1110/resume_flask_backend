@@ -1,0 +1,18 @@
+Name: surendhiran S
+Email: surendhirans1110@gmail.com
+Phone: 6380444998
+Address: vbm
+
+Objective:
+cloud engineer
+
+Education:
+10th Percentage: 88%
+12th Percentage: 86%
+CGPA: 8
+
+Work Experience:
+none
+
+Skills:
+java and aws

@@ -1,0 +1,18 @@
+Name: Surendhiran S
+Email: Surendhirans1110@gmail.com
+Phone: 6380449986
+Address: 7/99-1
+
+Objective:
+cloud engineer
+
+Education:
+10th Percentage: 88%
+12th Percentage: 86%
+CGPA: 8
+
+Work Experience:
+none
+
+Skills:
+java nas aws
